@@ -1,0 +1,104 @@
+footer {
+    text-align: center;
+    background-color: #2b2b2b;
+    color: white;
+}
+
+p{
+    font-size :30px;
+}
+.big-font{
+    font-size: 25px;
+    margin: 10px;
+    text-align: left
+}.small-font{
+    font-size: 15px;
+    margin: 30px;
+}.middle-font{
+    font-size: 20px;
+    margin: 30px;
+}
+
+
+body, h1, h2 {
+    margin: 0px;
+    padding: 0px;
+}
+
+ 
+ 
+
+.name-text {
+    font-size: 17px;
+    color: #7c7c7c;
+    font-weight: bold;
+}
+
+.main-box {
+    border: 1px solid black; /* 선 두께, 스타일, 색상 */
+    width: 610px;
+    text-align: right;
+
+    padding: 30px;
+    /* text가 아닌 박스 전체를 가운데 정렬 */
+    margin-left: auto;
+    margin-right: auto; 
+    margin: 30px;
+
+    /* 그림자 : 가로축(-좌 +우), 세로축(-상 +하), blur, spread, color */ 
+    box-shadow: 0 1px 20px 0 rgba(0,0,0,1); 
+}
+
+
+@import url('https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,500,600,700,800&display=swap');
+
+* { /* *: 문서 전체 적용 */
+	font-family: "Montserrat";
+}
+.title-text {
+    font-size: 28px;
+    font-weight:bold;
+    
+    margin: 10px;
+    font-style: normal;
+    position: relative;
+    left: 30px;
+    
+}
+.title-content-text {
+    font-size: 28px;
+    font-weight:bold;
+    
+    margin: 10px;
+    font-style: normal;
+   background-color:rgb(208, 212, 212);
+    position: relative;
+    left: 30px;
+    
+}.content-text {
+    font-size: 18px;
+    font-weight:normal;
+ 
+    margin: 10px;
+    font-style :normal;
+   /* background-color:rgb(227, 227, 233);*/
+    text-align: left;
+    position: relative;
+    left: 50px;
+ 
+}.contenbg {
+    font-size: 28px;
+    font-weight:bold;
+    
+    margin: 10px;
+    font-style: normal;
+   background-color:rgb(235, 234, 240);
+    position: relative;
+    left: 30px;
+    
+}
+
+
+
+
+ 
