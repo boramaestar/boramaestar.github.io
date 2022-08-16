@@ -98,7 +98,34 @@ body, h1, h2 {
     
 }
 
+.bor-color
+{
+    border-color: rgb(229, 238, 99);
+    border-style: solid;
+
+} 
 
 
+
+.container img {
+
+    width: 100%;
+  
+    height: auto;
+  
+  }
+  
+  
+  
+.img-button {
+    background: url( "img/btn.png" ) no-repeat;
+    border: none;
+    width: 256px;
+    height: 80px;
+    cursor: pointer;
+  }
+
+
+ 
 
  
