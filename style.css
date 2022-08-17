@@ -66,14 +66,14 @@ body, h1, h2 {
     
 }
 .title-content-text {
-    font-size: 28px;
+    font-size: 24px;
     font-weight:bold;
     
     margin: 10px;
     font-style: normal;
    background-color:rgb(208, 212, 212);
     position: relative;
-    left: 30px;
+    left: 0px;
     
 }.content-text {
     font-size: 18px;
